@@ -1,6 +1,6 @@
 # @emiketic/lib-utils
 
-Shared utility functions extracted from Emiketic projects.
+Shared utility functions for NodeJS and NextJS.
 Covers validation, text, math, navigation, JWT, phone, color, image analysis, and more.
 
 ## Install
