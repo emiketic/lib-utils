@@ -187,4 +187,4 @@ import useQueryParamBuilder from '@emiketic/lib-utils/client';
 
 ## License
 
-MIT
+MIT © [EMIKETIC](https://emiketic.com)
